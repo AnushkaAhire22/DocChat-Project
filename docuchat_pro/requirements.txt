@@ -1,0 +1,15 @@
+streamlit
+openai
+langchain
+sentence-transformers
+faiss-cpu
+PyMuPDF
+python-dotenv
+# # Requirements
+# streamlit==1.16.0
+# openai==0.25.0
+# langchain==0.0.130
+# sentence-transformers==2.2.0
+# faiss-cpu==1.7.2
+# PyMuPDF==1.22.0
+# python-dotenv==0.20.0
