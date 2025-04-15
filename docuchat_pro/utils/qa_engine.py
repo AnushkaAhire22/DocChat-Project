@@ -24,7 +24,7 @@ import requests
 import os
 
 # Set your OpenRouter API key here
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "sk-somthing-plz add your own api key here"
 
 def ask_llm(docs, question):
     context = "\n".join(docs)
